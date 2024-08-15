@@ -1,2 +1,1 @@
-color: red;
 #GUIA BASICA DE PHYTON-CHEAT SHEET
