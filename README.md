@@ -138,7 +138,16 @@ retorna [(‘a’, 1), (‘c’, ‘huevos’)]
 retorna True
 
 retorna False
-
+ | First Header  | Second Header |
+    | ------------- | ------------- |
+    | Creación      |
+    |               |
+    |  Acceso       |
+    |               | 
+    |  Slicing      |
+    | Content Cell  |
+    | Content Cell  | Content Cell  | | First Header  | Second Header |
+    
 
 
 
