@@ -1,7 +1,15 @@
 # GUIA BASICA DE PHYTON-CHEAT SHEET
-<html>
-<body>
- <p style="color: red;">Este texto es rojo.</p>
-</body>
-</html>
+**Conceptos basicos**
+#comentario
+Los espacios son fundamentales en el lenguaje de phyton, si no tienes en cuenta esto, tu codigo no funcionará correctamente.
 
+       condicional "if"                      | Second Header
+---------------------------------------------| -------------
+if test:
+# realizar acción si test es True
+elif test2:
+# realizar acción si test2 es True
+else:
+# realizar acción si las anteriores
+# son falsas (test y test2)  | Content Cell
+Content Cell                                 | Content Cell 
