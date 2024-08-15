@@ -4,7 +4,7 @@ comentario
 Los espacios son fundamentales en el lenguaje de phyton, si no tienes en cuenta esto, tu codigo no funcionará correctamente.
 
        condicional "if"                      | Second Header
----------------------------------------------| -------------
+
 if test:
  realizar acción si test es True
 elif test2:
