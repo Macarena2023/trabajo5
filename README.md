@@ -139,11 +139,3 @@ retorna True
 
 retorna False
 
-|                 | codigo      |
-| ------------- | ------------- |
-|  Creación
-
-   Acceso
-   
-   Slicing      | Content Cell  |
-| Content Cell  | Content Cell  |
