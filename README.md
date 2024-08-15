@@ -139,7 +139,11 @@ retorna True
 
 retorna False
 
-| First Header  | Second Header |
+|                 | codigo      |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
+|  Creación
+
+   Acceso
+   
+   Slicing      | Content Cell  |
 | Content Cell  | Content Cell  |
