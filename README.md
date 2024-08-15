@@ -1,7 +1,7 @@
 # GUIA BASICA DE PHYTON-CHEAT SHEET
 **Conceptos basicos**
 
-## comentario
+###### comentario
 
 Los espacios son fundamentales en el lenguaje de phyton, si no tienes en cuenta esto, tu codigo no funcionará correctamente.
 
@@ -40,6 +40,27 @@ while test:
 
 **realizar acción mientras test
 sea True**
-###### HOLA
+
+# CADENAS
+
+Una cadena es una secuencia de caracteres, generalmente utilizada para almacenar texto.
+
+ **Creación**                     
+cadena = “Hola mundo.”
+cadena = ‘Hola mundo.’
+
+ **Acceso**
+cadena[4]
+
+ **División**
+cadena.split(‘ ’)
+cadena.split(‘n’)
+
+ **retorna** ‘a’
+
+ **retorna** [‘Hola’, ‘mundo.’]
+ **retorna** [‘Hola mu’, ‘do.’]
+ 
+
 
 
