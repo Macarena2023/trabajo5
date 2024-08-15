@@ -1,3 +1,5 @@
 # GUIA BASICA DE PHYTON-CHEAT SHEET
-<p style="color: red;">lo basico.</p>
+<body>
+ <p style="color: red;">Este texto es rojo.</p>
+</body>
 
