@@ -1,9 +1,7 @@
 # GUIA BASICA DE PHYTON-CHEAT SHEET
 **Conceptos basicos**
 
-###### comentario
-
-Los espacios son fundamentales en el lenguaje de phyton, si no tienes en cuenta esto, tu codigo no funcionará correctamente.
+###### Los espacios son fundamentales en el lenguaje de phyton, si no tienes en cuenta esto, tu codigo no funcionará correctamente.
 
 
 ## condicional "if"
@@ -43,7 +41,7 @@ sea True**
 
 # CADENAS
 
-Una cadena es una secuencia de caracteres, generalmente utilizada para almacenar texto.
+###### Una cadena es una secuencia de caracteres, generalmente utilizada para almacenar texto.
 
  **Creación**                     
 cadena = “Hola mundo.”
@@ -65,13 +63,18 @@ cadena.split(‘n’)
  ###### Para unir una lista de cadenas, utiliza la función join() como método de la cadena que utilizarás para separar cada uno de los elementos de la lista (o bien ‘’).
 
 **palabras =** [‘Esto’, ‘es’, ‘una’, ‘lista’, ‘de’,‘cadenas’] 
+
  ‘ ’.join(palabras
+ 
   ‘ZOOL’.join(palabras)
+  
     ‘’.join(palabras)
 
-retorna “Esto es una lista de cadenas”
-retorna “EstoZOOLesZOOLunaZOOLlistaZOOLdeZOOLcadenas”
-retorna “Estoesunalistadecadenas”
+**retorna** “Esto es una lista de cadenas”
+
+**retorna**  “EstoZOOLesZOOLunaZOOLlistaZOOLdeZOOLcadenas”
+
+**retorna** “Estoesunalistadecadenas”
 
 
 
