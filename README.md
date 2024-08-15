@@ -95,7 +95,50 @@ print(“Hola %s.” % cadena) “Hola Python.”
 **esta_tupla =** (12, 89, ‘a’, True)
 
 **Acceso**
+
  esta_tupla[0] retorna 12
+
+# DICCIONARIOS
+
+###### Un diccionario es un conjunto de pares clave:valor (o nombre:valor). Todos los nombres deben ser únicos.
+
+**Creación**
+
+**diccionario =**{}
+
+**diccionario =** {‘a’:1, ‘b’:23, ‘c’:”huevos”}
+
+**Acceso**
+diccionario[‘a’]
+
+**Borrado**
+
+del diccionario[‘b’]
+
+**Búsqueda**
+
+diccionario.has_key(“e”)
+
+diccionario.keys()
+
+diccionario.items()
+
+‘c’ in diccionario
+
+‘otra_clave’ in diccionario
+
+**retorna 1**
+
+retorna False
+
+retorna [‘a’, ‘c’]
+
+retorna [(‘a’, 1), (‘c’, ‘huevos’)]
+
+retorna True
+
+retorna False
+
 
 
 
