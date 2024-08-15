@@ -66,15 +66,36 @@ cadena.split(‘n’)
 
  ‘ ’.join(palabras
  
-  ‘ZOOL’.join(palabras)
+ ‘ZOOL’.join(palabras)
   
-    ‘’.join(palabras)
+  ‘’.join(palabras)
 
 **retorna** “Esto es una lista de cadenas”
 
 **retorna**  “EstoZOOLesZOOLunaZOOLlistaZOOLdeZOOLcadenas”
 
 **retorna** “Estoesunalistadecadenas”
+
+###### Formateo de cadenas: similar a la función de C printf(), utiliza en su lugar el operador % para añadir los elementos de una tupla a una cadena.
+
+**cadena**  = “Python”
+
+print(“Hola %s.” % cadena) “Hola Python.”
+
+# TUPLAS
+
+###### Una tupla consiste en un conjunto de valores separados por comas. Son útiles para pares ordenados y retornar varios valores desde una función.
+
+**Creación**
+
+**tupla =** ()
+
+**otra_tupla =** (“spam”,) # Nótese la coma
+**esta_tupla =** 12, 89, ‘a’, True
+**esta_tupla =** (12, 89, ‘a’, True)
+
+**Acceso**
+ esta_tupla[0] retorna 12
 
 
 
