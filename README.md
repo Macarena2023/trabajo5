@@ -7,12 +7,7 @@ Los espacios son fundamentales en el lenguaje de phyton, si no tienes en cuenta 
 
 **condicional "if"**
 
-if test:
-**emphasis**_lenguaje de mierda
-elif test2:
-# realizar acción si test2 es True
-else:
-# realizar acción si las anteriores
-# son falsas (test y test2)
-
-       
+~~Strikethrough~~ <s>Strikethrough (when enable html tag decode.)</s>
+*Italic*      _Italic_
+**Emphasis**  __Emphasis__
+***Emphasis Italic*** ___Emphasis Italic___
