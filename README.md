@@ -7,7 +7,6 @@ Los espacios son fundamentales en el lenguaje de phyton, si no tienes en cuenta 
 
 **condicional "if"**
 
-~~Strikethrough~~ <s>Strikethrough (when enable html tag decode.)</s>
-*Italic*      _Italic_
 **Emphasis**  __Emphasis__
 ***Emphasis Italic*** ___Emphasis Italic___
+si
