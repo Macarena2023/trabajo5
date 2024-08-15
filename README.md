@@ -59,8 +59,19 @@ cadena.split(‘n’)
  **retorna** ‘a’
 
  **retorna** [‘Hola’, ‘mundo.’]
- **retorna** [‘Hola mu’, ‘do.’]
  
+ **retorna** [‘Hola mu’, ‘do.’]
+
+ ###### Para unir una lista de cadenas, utiliza la función join() como método de la cadena que utilizarás para separar cada uno de los elementos de la lista (o bien ‘’).
+
+**palabras =** [‘Esto’, ‘es’, ‘una’, ‘lista’, ‘de’,‘cadenas’] 
+ ‘ ’.join(palabras
+  ‘ZOOL’.join(palabras)
+    ‘’.join(palabras)
+
+retorna “Esto es una lista de cadenas”
+retorna “EstoZOOLesZOOLunaZOOLlistaZOOLdeZOOLcadenas”
+retorna “Estoesunalistadecadenas”
 
 
 
