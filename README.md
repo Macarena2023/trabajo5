@@ -7,7 +7,7 @@ Los espacios son fundamentales en el lenguaje de phyton, si no tienes en cuenta 
 
 **condicional "if"**
 
-***Emphasis Italic*** ___if test:
+if test:
 
 **realizar acción si test es True**
 
@@ -19,5 +19,5 @@ else:
 
 **realizar acción si las anteriores**
 
-**son falsas (test y test2)**___
+**son falsas (test y test2)**
 
