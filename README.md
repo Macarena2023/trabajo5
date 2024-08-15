@@ -6,7 +6,7 @@
 Los espacios son fundamentales en el lenguaje de phyton, si no tienes en cuenta esto, tu codigo no funcionará correctamente.
 
 
-| **condicional "if"**                |   nose |
+| **condicional "if"**                | 
 
  if test:
 
@@ -20,5 +20,5 @@ Los espacios son fundamentales en el lenguaje de phyton, si no tienes en cuenta 
 
  **realizar acción si las anteriores**
 
- **son falsas (test y test2)**
+| **son falsas (test y test2)**       |
 
